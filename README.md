@@ -1,2 +1,3 @@
-# hatsugamai-ru
-БЛЯ ЗАБЫЛ КУДА В НОТАБЕНОИДЕ ТЫКАТЬ
+Попробую перевести вот [эту демку](http://www.h-comb.biz/new_title/14/special/trial.html) ([VNDB](https://vndb.org/v18790)).
+
+[![опенинг](girls.png)](https://www.youtube.com/watch?v=zS2zN34fG2I)
